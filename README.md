@@ -4,6 +4,8 @@
 </p>
 
 <h3 align="center">Context Api Loading Project.</h3>
+<h3 align="center">Projeto: [Project](https://paulopkl.github.io/Context-API-with-Hooks/)</h3>
+
 
 <div align="center">
 
@@ -52,58 +54,35 @@ and this becomes very complex in understanding the code, one of the first soluti
 Redux, however this lib contains a high degree of complexity as well, so some updates to React
 brought the Context Api that facilitates 1000% the way of passing properties to components further down the chain.)
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+## 🏁  (Getting Started) <a name = "getting_started"></a>
 
 ### Pré-requisitos (Prerequisites)
 
-What things you need to install the software and how to install them.
+Git instado no sistema.
+(Git Commando line installed.)
 
 ```
-Give examples
+git clone https://github.com/paulopkl/Context-API-with-Hooks
 ```
 
 ### Instalação (Installing)
 
-A step by step series of examples that tell you how to get a development env running.
+Entre na pasta do projeto e siga os passos abaixo.
+(Enter the project folder and follow the steps below)
 
-Instalar Dependências:
-(Install Dependêncies:)
+Instalar Dependências: (Install Dependêncies:)
 
 ```
 npm install
 ```
 
-Rodar Servidor web:
-(Run web server:)
+Rodar Servidor web: (Run web server:)
 
 ```
 npm start
 ```
 
-Aprecie o projeto em localhost:8000.
-(Enjoy the project in localhos:8000.)
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Aprecie o projeto em localhost:8000. (Enjoy the project in localhos:8000.)
 
 ## 🚀 Usage <a name="usage"></a>
 
