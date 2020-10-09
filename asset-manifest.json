@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Context-API-with-Hooks/static/css/main.53abeaba.chunk.css",
+    "main.js": "/Context-API-with-Hooks/static/js/main.b0ee0e5d.chunk.js",
+    "main.js.map": "/Context-API-with-Hooks/static/js/main.b0ee0e5d.chunk.js.map",
+    "runtime-main.js": "/Context-API-with-Hooks/static/js/runtime-main.073acfd9.js",
+    "runtime-main.js.map": "/Context-API-with-Hooks/static/js/runtime-main.073acfd9.js.map",
+    "static/css/2.d97600f8.chunk.css": "/Context-API-with-Hooks/static/css/2.d97600f8.chunk.css",
+    "static/js/2.146e56a0.chunk.js": "/Context-API-with-Hooks/static/js/2.146e56a0.chunk.js",
+    "static/js/2.146e56a0.chunk.js.map": "/Context-API-with-Hooks/static/js/2.146e56a0.chunk.js.map",
+    "index.html": "/Context-API-with-Hooks/index.html",
+    "precache-manifest.27013334ec1b9b11835e23edee377ed5.js": "/Context-API-with-Hooks/precache-manifest.27013334ec1b9b11835e23edee377ed5.js",
+    "service-worker.js": "/Context-API-with-Hooks/service-worker.js",
+    "static/css/2.d97600f8.chunk.css.map": "/Context-API-with-Hooks/static/css/2.d97600f8.chunk.css.map",
+    "static/css/main.53abeaba.chunk.css.map": "/Context-API-with-Hooks/static/css/main.53abeaba.chunk.css.map",
+    "static/js/2.146e56a0.chunk.js.LICENSE.txt": "/Context-API-with-Hooks/static/js/2.146e56a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.073acfd9.js",
+    "static/css/2.d97600f8.chunk.css",
+    "static/js/2.146e56a0.chunk.js",
+    "static/css/main.53abeaba.chunk.css",
+    "static/js/main.b0ee0e5d.chunk.js"
+  ]
+}
