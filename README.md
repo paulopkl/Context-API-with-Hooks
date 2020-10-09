@@ -44,7 +44,17 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Uma das maiores dificuldades dos desenvolvedores em ReactJS ou React-Native é o fato de que as vezes é 
+preciso passa propriedades de um componente á outro que está muito abaixo da cadeia de componentes,
+e isto passa a ser muito complexo no entendimento do código, uma das primeiras soluções foi o uso da lib do
+Redux, porém essa lib contêm um grau elevado de complexidade tambem, então algumas atualizações do React
+trouxe o Context Api que facilita 1000% a forma de passar propriedas para componentes mais abaixo da cadeia.
+
+(One of the biggest difficulties for developers in ReactJS or React-Native is the fact that it is sometimes
+accurately passes properties from one component to another that is far below the component chain,
+and this becomes very complex in understanding the code, one of the first solutions was the use of the lib of
+Redux, however this lib contains a high degree of complexity as well, so some updates to React
+brought the Context Api that facilitates 1000% the way of passing properties to components further down the chain.)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
