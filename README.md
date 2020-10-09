@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-  <img width="500" height="400" src="/assets/context.png" alt="Project logo"></a>
+  <img width="700" height="500" src="/assets/context.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">context-api-loading</h3>
