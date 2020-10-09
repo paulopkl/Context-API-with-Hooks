@@ -30,19 +30,15 @@
   <br />
 </p>
 
-## 📝 Table of Contents
+## 📝 Tabela de Conteúdos (Table of Contents)
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Sobre (About)](#about)
+- [Começando (Getting Started)](#getting_started)
+- [Uso (Usage)](#usage)
+- [Construido com (Built Using)](#built_using)
+- [Autores (Authors)](#authors)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 Sobre (About) <a name = "about"></a>
 
 Uma das maiores dificuldades dos desenvolvedores em ReactJS ou React-Native é o fato de que as vezes é 
 preciso passa propriedades de um componente á outro que está muito abaixo da cadeia de componentes,
@@ -60,7 +56,7 @@ brought the Context Api that facilitates 1000% the way of passing properties to 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Pré-requisitos (Prerequisites)
 
 What things you need to install the software and how to install them.
 
@@ -68,23 +64,26 @@ What things you need to install the software and how to install them.
 Give examples
 ```
 
-### Installing
+### Instalação (Installing)
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+Instalar Dependências:
+(Install Dependêncies:)
 
 ```
-Give the example
+npm install
 ```
 
-And repeat
+Rodar Servidor web:
+(Run web server:)
 
 ```
-until finished
+npm start
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+Aprecie o projeto em localhost:8000.
+(Enjoy the project in localhos:8000.)
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
@@ -106,29 +105,14 @@ Explain what these tests test and why
 Give an example
 ```
 
-## 🎈 Usage <a name="usage"></a>
+## 🚀 Usage <a name="usage"></a>
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+## ⛏️ Construido usando (Built Using) <a name = "built_using"></a>
 
-Add additional notes about how to deploy this on a live system.
+- [ReactJS](https://reactjs.org/) - ReactJS
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ✍️ Autores (Authors) <a name = "authors"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@paulopkl](https://github.com/paulopkl) - Idéia e Trabalho Inicial (Idea & Initial work)
