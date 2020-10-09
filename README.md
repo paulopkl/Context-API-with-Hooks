@@ -15,8 +15,19 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
+<p align="center"> 
+  Este projeto demonstra de maneira prática o uso do Context Api. O context Api é uma maneira diferente
+  de passar propriedades para um componente mais abaixo na árvore de componentes sem precisar passa-los
+  para os filhos dos filhos, simplesmente você cria um estado em um componente pai e passa funções para
+  modifica-lo diretamente para um componente muito abaixo da cadeia de componentes.
+  <br />
+</p>
+<p align="center"> 
+  (This project demonstrates in a practical way the use of Context Api. The Api context is a different way
+   passing properties to a component further down the component tree without having to pass them
+   for children's children, you simply create a state in a parent component and pass functions to
+   modify it directly for a component far below the component chain.)
+  <br />
 </p>
 
 ## 📝 Table of Contents
