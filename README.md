@@ -4,7 +4,9 @@
 </p>
 
 <h3 align="center">Context Api Loading Project.</h3>
-<h3 align="center">Projeto: [Project](https://paulopkl.github.io/Context-API-with-Hooks/)</h3>
+<h3 align="center">Projeto: 
+  <a href="https://paulopkl.github.io/Context-API-with-Hooks" target="_blank">[Project]</a>
+</h3>
 
 
 <div align="center">
