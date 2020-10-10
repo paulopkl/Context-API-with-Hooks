@@ -58,7 +58,7 @@ brought the Context Api that facilitates 1000% the way of passing properties to 
 
 ## 🚀 Entenda Context API (Understand Context-API) <a name=""></a>
 
-Propriedade (Property)| 
+Propriedade (Property)| teste
 --------- | ------
 React.createContext() | Cria um contexto onde será armazenado os estado global. (Cria um contexto onde será armazenado os estado global.)
 React.Provider | Deve embrulhar os componentes, recebe um value={[Objeto que contem o estado do componente pai e as funções que o modoficam]}. (You must wrap the components, you receive a value = {[Object that contains the state of the parent component and the functions that modify it]}.)
