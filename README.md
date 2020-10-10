@@ -93,7 +93,7 @@ Rodar Servidor web: (Run web server:)
 npm start
 ```
 
-Aprecie o projeto em localhost:8000. (Enjoy the project in localhos:8000.)
+Aprecie o projeto em localhost:8000. (Enjoy the project in localhost:8000.)
 
 ## ⛏️ Construido usando (Built Using) <a name = "built_using"></a>
 
