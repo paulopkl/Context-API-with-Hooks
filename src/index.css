@@ -50,6 +50,12 @@ div.screen {
   width: 50vw;
 }
 
+@media(max-width: 600px) {
+  div.screen {
+    flex-direction: row;
+  }
+}
+
 button {
   transition: 1s;
   height: 10vh;
