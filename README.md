@@ -37,6 +37,7 @@
 ## 📝 Tabela de Conteúdos (Table of Contents)
 
 - [Sobre (About)](#about)
+- [Entenda (understand)](#undestand)
 - [Começando (Getting Started)](#getting_started)
 - [Construido com (Built Using)](#built_using)
 - [Autores (Authors)](#authors)
@@ -54,6 +55,15 @@ accurately passes properties from one component to another that is far below the
 and this becomes very complex in understanding the code, one of the first solutions was the use of the lib of
 Redux, however this lib contains a high degree of complexity as well, so some updates to React
 brought the Context Api that facilitates 1000% the way of passing properties to components further down the chain.)
+
+## 🚀 Entenda Context API (Understand Context-API) <a name=""></a>
+
+Propriedade (Property)| 
+--------- | ------
+React.createContext() | Cria um contexto onde será armazenado os estado global. (Cria um contexto onde será armazenado os estado global.)
+React.Provider | Deve embrulhar os componentes, recebe um value={[Objeto que contem o estado do componente pai e as funções que o modoficam]}. (You must wrap the components, you receive a value = {[Object that contains the state of the parent component and the functions that modify it]}.)
+React.Consumer | É o embrulho da renderização. (It's the rendering package.)
+Function | Ao por o Consumer você deverá colocar uma função dentro dele que recebe as propriedades e as funções do componente pai como parametro e retorna todo o JSX filhos. (When putting the Consumer you must put a function inside it that receives the properties and functions of the parent component as a parameter and returns all the JSX children.)
 
 ## 🏁 Inicio (Getting Started) <a name = "getting_started"></a>
 
