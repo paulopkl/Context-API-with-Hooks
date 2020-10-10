@@ -3,10 +3,10 @@
   <img width="700" height="500" src="/assets/context.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Context Api Loading Project.</h3>
-<h5 align="center">Projeto: 
+<h1 align="center">Projeto: 
   <a href="https://paulopkl.github.io/Context-API-with-Hooks" target="_blank">[Project]</a>
-</h5>
+</h1>
+<h3 align="center">Context Api Loading Project.</h3>
 
 
 <div align="center">
