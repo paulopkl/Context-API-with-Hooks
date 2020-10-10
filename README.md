@@ -4,9 +4,9 @@
 </p>
 
 <h3 align="center">Context Api Loading Project.</h3>
-<h3 align="center">Projeto: 
+<h5 align="center">Projeto: 
   <a href="https://paulopkl.github.io/Context-API-with-Hooks" target="_blank">[Project]</a>
-</h3>
+</h5>
 
 
 <div align="center">
@@ -38,7 +38,6 @@
 
 - [Sobre (About)](#about)
 - [Começando (Getting Started)](#getting_started)
-- [Uso (Usage)](#usage)
 - [Construido com (Built Using)](#built_using)
 - [Autores (Authors)](#authors)
 
@@ -56,7 +55,7 @@ and this becomes very complex in understanding the code, one of the first soluti
 Redux, however this lib contains a high degree of complexity as well, so some updates to React
 brought the Context Api that facilitates 1000% the way of passing properties to components further down the chain.)
 
-## 🏁  (Getting Started) <a name = "getting_started"></a>
+## 🏁 Inicio (Getting Started) <a name = "getting_started"></a>
 
 ### Pré-requisitos (Prerequisites)
 
@@ -85,10 +84,6 @@ npm start
 ```
 
 Aprecie o projeto em localhost:8000. (Enjoy the project in localhos:8000.)
-
-## 🚀 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
 
 ## ⛏️ Construido usando (Built Using) <a name = "built_using"></a>
 
